@@ -56,12 +56,13 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSide&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanSide&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSide&layout=compact&theme=tokyonight)
+
 
 ---
 
 ## Thank You!
-<p align="center">
+<p>
   <img src="https://media1.tenor.com/m/1nYMIxCsNmEAAAAd/noemi-hestia-terdiam.gif" width="300" alt="Noemi Hestia terdiam GIF" />
 </p>
