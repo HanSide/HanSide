@@ -61,4 +61,7 @@
 
 ---
 
-![Thank You!](https://tenor.com/view/noemi-hestia-terdiam-silent-look-at-gif-15453552516111545953)
+![Thank You!]
+<p align="center">
+  <img src="https://media1.tenor.com/m/1nYMIxCsNmEAAAAd/noemi-hestia-terdiam.gif" width="300" alt="Noemi Hestia terdiam GIF" />
+</p>
