@@ -1,7 +1,7 @@
 # 👋 Hi, I'm HanSide!
 
 🎵 Currently vibin' on Spotify  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=kjon2kbapkstttgsfj1pzqe2r&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/kjon2kbapkstttgsfj1pzqe2r)
+
 
 ---
 
