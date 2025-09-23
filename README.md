@@ -1,7 +1,9 @@
 # 👋 Hi, I'm HanSide!
 
 🎵 Currently vibin' on
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kjon2kbapkstttgsfj1pzqe2r&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kjon2kbapkstttgsfj1pzqe2r&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)]]
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kjon2kbapkstttgsfj1pzqe2r&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kjon2kbapkstttgsfj1pzqe2r&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&mode=dark)]]
+
 ---
 
 ## 🌐 Socials
