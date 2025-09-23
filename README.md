@@ -58,3 +58,7 @@
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanSide&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanSide&show_icons=true&theme=tokyonight)
+
+---
+
+![Thank You!](https://tenor.com/view/noemi-hestia-terdiam-silent-look-at-gif-15453552516111545953)
