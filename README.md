@@ -1,6 +1,10 @@
 # 👋 Hi, I'm HanSide!
 
 🎵 Currently vibin' on
+
+
+
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kjon2kbapkstttgsfj1pzqe2r&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=kjon2kbapkstttgsfj1pzqe2r&redirect=true)
 
 ---
