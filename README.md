@@ -61,5 +61,5 @@
 
 ## Thank You!
 <p>
-  <img src="https://media1.tenor.com/m/1nYMIxCsNmEAAAAd/noemi-hestia-terdiam.gif" width="300" alt="Noemi Hestia terdiam GIF" />
+  <img src="https://media1.tenor.com/m/5u0D9QH89HIAAAAd/noemi-hestia-speech-bubble-meme.gif" />
 </p>
