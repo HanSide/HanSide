@@ -2,10 +2,10 @@
 
 🎵 Currently vibin' on
 
-![Spotify]
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kjon2kbapkstttgsfj1pzqe2r&cover_image=true&theme=spotify-embed&show_offline=false&background_color=1a1a1a&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=kjon2kbapkstttgsfj1pzqe2r&redirect=true)
 
-![Apple Music]
+
 [![apple-music-readme](https://apple-music-readme-eta.vercel.app/?background_color=1a1a1a&text_color=ffffff)](https://music.apple.com/)
 
 ---
@@ -51,8 +51,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![AfterEffects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
 
