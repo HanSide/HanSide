@@ -4,7 +4,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kjon2kbapkstttgsfj1pzqe2r&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=kjon2kbapkstttgsfj1pzqe2r&redirect=true)
 
-<img src="https://apple-music-readme-eta.vercel.app/?">
+<img src="https://apple-music-readme-eta.vercel.app/?background_color=1a1a1a&text_color=ffffff">
+
 
 ---
 
