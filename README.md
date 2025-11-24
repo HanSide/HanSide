@@ -52,6 +52,7 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![AfterEffects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![ClipStudioPaint](https://img.shields.io/badge/CSP-808080?style=for-the-badge&logo=clipstudiopaint&logoColor=black)
 
 ---
 
